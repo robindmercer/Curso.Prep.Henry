@@ -1,0 +1,33 @@
+body {
+    background: url("../img/descarga.jfif"); 
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+h1 {
+    color: blue;
+    text-align: center;
+}
+img {
+    width: 400px;
+}
+div{
+    margin:auto;
+    text-align: center;
+}
+.divClass{
+    margin:auto;
+    display: flex;
+}
+#thirdDiv{
+    height: 600px;
+    width: 500px;
+    background-color:coral;
+    padding: 50px;
+    border-radius: 2%;
+    border-color: black solid 2px;
+    border-style: dashed;
+}
+#spanId{
+    margin: 50px;
+    font-size: 18px;
+}
